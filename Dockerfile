@@ -1,2 +1,2 @@
-FROM hub.kce.ksyun.com/ezone-public/galaxy/java:jdk1.8.0_231
+FROM nginx:1.7
 ADD settings.xml /settings
